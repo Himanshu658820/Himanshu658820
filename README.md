@@ -98,8 +98,6 @@ Markdown
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-![Snake Animation](https://raw.githubusercontent.com/Himanshu658820/Himanshu658820/output/github-contribution-grid-snake.svg)
-
 ## 📫 Let's Connect!
 
 <p align="center">
@@ -123,6 +121,8 @@ I'm always interested in discussing AI/ML projects, research opportunities, and 
 </div>
 
 ---
+
+![Snake Animation](https://raw.githubusercontent.com/Himanshu658820/Himanshu658820/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=40&fontAlignY=70&animation=twinkling" />
