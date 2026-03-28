@@ -98,7 +98,7 @@ Markdown
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-
+![Snake Animation](https://raw.githubusercontent.com/Himanshu658820/Himanshu658820/output/github-contribution-grid-snake.svg)
 
 ## 📫 Let's Connect!
 
