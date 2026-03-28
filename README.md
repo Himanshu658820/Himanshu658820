@@ -1,24 +1,21 @@
+Markdown
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&color=000000&height=120&section=header&text=HIMANSHU%20SAINI&fontSize=80&fontColor=39FF14" alt="Cyberpunk Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=100&lines=HIMANSHU+SAINI;AI+%2F+ML+EXPLORER" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=IIIT+LUCKNOW+Msc+AI+&+ML" alt="Typing Subtitle" />
+<pre align="center">
+<b>┌────────────────────────────────────────────────────────────────────────┐</b>
+<b>│</b>  ██╗  ██╗██╗███╗   ███╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗  <b>│</b>
+<b>│</b>  ██║  ██║██║████╗ ████║██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║  <b>│</b>
+<b>│</b>  ███████║██║██╔████╔██║███████║██╔██╗ ██║███████╗███████║██║   ██║  <b>│</b>
+<b>│</b>  ██╔══██║██║██║╚██╔╝██║██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║  <b>│</b>
+<b>│</b>  ██║  ██║██║██║ ╚═╝ ██║██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝  <b>│</b>
+<b>│</b>  ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝   <b>│</b>
+<b>└────────────────────────────────────────────────────────────────────────┘</b>
+                    🛰️ STUDYING @ IIIT_LUCKNOW_2025-27 🛰️
+</pre>
 </p>
-
-
-
-[//]: # (<p align="center">)
-
-[//]: # ()
-[//]: # (  <img src="https://komarev.com/ghpvc/?username=Himanshu658820&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />)
-
-[//]: # ()
-[//]: # (  <img src="https://img.shields.io/github/followers/Himanshu658820?label=Followers&style=for-the-badge&color=8b5cf6" alt="followers" />)
-
-[//]: # ()
-[//]: # (</p>)
-
 
 ## 🏆 Key Achievements
 
